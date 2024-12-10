@@ -1,0 +1,14 @@
+1. cd: Changes the current directory.
+2. mkdir: Creates a new directory.
+3. rmdir: Removes an empty directory.
+4. ls: Lists the files and directories in the current directory.
+5. ls -l: Lists files and directories with detailed information (permissions, owner, size, etc.).
+6. rm: Removes files or directories.
+7. cat: Concatenates and displays the contents of files.
+8. cat <file>: Displays the contents of a specified file.
+9. diff: Compares two files line by line and shows differences.
+10. more: Views the contents of a file one page at a time.
+11. grep: Searches for a pattern in a file or input.
+12. date: Displays the current system date and time.
+13. touch: Creates an empty file or updates the timestamp of an existing file.
+14. echo: Displays a message or the value of a variable on the terminal.

@@ -1,0 +1,19 @@
+1. arp -a: Displays the ARP table (IP to MAC address mapping).
+2. hostname: Displays or sets the system's hostname.
+3. ifconfig: Displays or configures network interfaces (deprecated in some systems in favor of 'ip').
+4. ifconfig -a: Displays all network interfaces with detailed information.
+5. ipconfig /renew: Renews the DHCP lease and assigns a new IP address (Windows).
+6. ipconfig /release: Releases the current DHCP lease, removing the IP address (Windows).
+7. ipconfig /flushdns: Clears the DNS cache on Windows.
+8. nmblookup -A <IP_ADDRESS>: Queries the NetBIOS name of a remote system (Linux).
+9. netdiag: Runs diagnostic tests to check the health and connectivity of a network (Windows).
+10. netstat: Displays active network connections, routing tables, and interface statistics.
+11. pathping: Traces the route to a destination and provides information on latency and packet loss (Windows).
+12. ping: Sends ICMP echo requests to check connectivity to a remote system.
+13. route: Displays or modifies the system's IP routing table.
+14. traceroute: Traces the path that packets take to a destination, showing each hop along the route.
+15. tracert: Windows version of `traceroute` to trace the route to a destination.
+16. mtr: Combines `ping` and `traceroute` functionality to analyze network paths and performance (Linux).
+17. nslookup: Queries DNS to obtain domain name or IP address mapping information.
+18. ip route: Displays or modifies the routing table on Linux (modern alternative to `route`).
+
